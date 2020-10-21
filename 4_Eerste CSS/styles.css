@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  border: 5px solid blue;
+  background-color: khaki;
+}
+li {
+  text-align: left;
+}
+
+.intro {
+  color: blue;
+  font-family: "Staatliches", cursive;
+  display: inline-block;
+  margin: 0 0.5rem;
+  animation: bounce;
+  animation-duration: 5s;
+}
+
+.copyright {
+  font-style: oblique;
+}
+
+.sterke-punten {
+  text-align: left;
+  font-size: 40px;
+}
